@@ -1,0 +1,6 @@
+c:\users\1710456\documents\visual studio 2015\Projects\DiagramaDeObjetoDeCarro\DiagramaDeObjetoDeCarro\bin\Debug\DiagramaDeObjetoDeCarro.exe.config
+c:\users\1710456\documents\visual studio 2015\Projects\DiagramaDeObjetoDeCarro\DiagramaDeObjetoDeCarro\bin\Debug\DiagramaDeObjetoDeCarro.exe
+c:\users\1710456\documents\visual studio 2015\Projects\DiagramaDeObjetoDeCarro\DiagramaDeObjetoDeCarro\bin\Debug\DiagramaDeObjetoDeCarro.pdb
+c:\users\1710456\documents\visual studio 2015\Projects\DiagramaDeObjetoDeCarro\DiagramaDeObjetoDeCarro\obj\Debug\DiagramaDeObjetoDeCarro.csprojResolveAssemblyReference.cache
+c:\users\1710456\documents\visual studio 2015\Projects\DiagramaDeObjetoDeCarro\DiagramaDeObjetoDeCarro\obj\Debug\DiagramaDeObjetoDeCarro.exe
+c:\users\1710456\documents\visual studio 2015\Projects\DiagramaDeObjetoDeCarro\DiagramaDeObjetoDeCarro\obj\Debug\DiagramaDeObjetoDeCarro.pdb
